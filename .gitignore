@@ -1,0 +1,28 @@
+# Data and generated artefacts — not part of the public code repository
+data/
+outputs/
+results/
+*.csv
+*.tsv
+*.pkl
+*.joblib
+*.npz
+*.npy
+*.sdf
+*.pdb
+*.pdbqt
+*.xtc
+*.trr
+*.edr
+*.cpt
+*.tpr
+*.gro
+*.xvg
+*.log
+*.dat
+
+# OS / editor / Python
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
